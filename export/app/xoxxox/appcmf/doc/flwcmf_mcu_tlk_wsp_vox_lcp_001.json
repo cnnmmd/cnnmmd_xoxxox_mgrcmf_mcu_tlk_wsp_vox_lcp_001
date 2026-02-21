@@ -125,7 +125,7 @@
       "mode": 0,
       "inputs": [
         {
-          "name": "keydat",
+          "name": "keymmd",
           "type": "STRING",
           "link": 41
         }
@@ -218,7 +218,7 @@
       "mode": 0,
       "inputs": [
         {
-          "name": "keydat",
+          "name": "keymmd",
           "type": "STRING",
           "link": 43
         }
@@ -253,7 +253,7 @@
       "mode": 0,
       "inputs": [
         {
-          "name": "keydat",
+          "name": "keymmd",
           "type": "STRING",
           "link": 12
         }
@@ -292,7 +292,7 @@
       "mode": 0,
       "inputs": [
         {
-          "name": "keydat",
+          "name": "keymmd",
           "type": "STRING",
           "link": 13
         }
@@ -330,7 +330,7 @@
       "mode": 0,
       "inputs": [
         {
-          "name": "keydat",
+          "name": "keymmd",
           "type": "STRING",
           "link": 20
         }
@@ -368,7 +368,7 @@
       "mode": 0,
       "inputs": [
         {
-          "name": "keydat",
+          "name": "keymmd",
           "type": "STRING",
           "link": 11
         }
@@ -405,7 +405,7 @@
       "mode": 0,
       "inputs": [
         {
-          "name": "keydat",
+          "name": "keymmd",
           "type": "STRING",
           "link": 40
         }
